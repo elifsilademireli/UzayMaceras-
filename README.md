@@ -25,7 +25,7 @@ Uzay Savaşı oyununda oyuncu, bir uzay gemisini kontrol eder ve asteroidlere ka
 ## 📦 Kurulum
 
 1. Unity'nin en son sürümünü indirin: [Unity Resmi Sitesi](https://unity.com/)
-2. Bu repoyu klonlayın.
+2. Bu repoyu klonlayın. https://github.com/elifsilademireli/UzaySavasi.git
 3. Unity üzerinden projeyi açın ve çalıştırın.
 
 ## 📄 Eğitim Modülleri
